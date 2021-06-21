@@ -2,5 +2,5 @@
 title: "Welcome"
 ---
 
-Hello, Website!
+Hello, Github!
 
